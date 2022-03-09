@@ -1,0 +1,15 @@
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\EnC.exe
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\EnC.deps.json
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\EnC.runtimeconfig.json
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\EnC.dll
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\ref\EnC.dll
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\bin\Debug\net6.0\EnC.pdb
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.csproj.AssemblyReference.cache
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.AssemblyInfoInputs.cache
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.AssemblyInfo.cs
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.csproj.CoreCompileInputs.cache
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.dll
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\ref\EnC.dll
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.pdb
+C:\Users\fetut\Kyla\JeuaJarrepasfini\EnC\obj\Debug\net6.0\EnC.genruntimeconfig.cache
